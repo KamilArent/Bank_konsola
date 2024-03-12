@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\studia\\6 semestr\\obiektowe\\Konsolowy_bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD8E6B-E2DC-4BC6-897D-F92EAF0820F5}|Konsolowy_bank\\Konsolowy_bank.csproj|d:\\studia\\6 semestr\\obiektowe\\konsolowy_bank\\konsolowy_bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD8E6B-E2DC-4BC6-897D-F92EAF0820F5}|Konsolowy_bank\\Konsolowy_bank.csproj|solutionrelative:konsolowy_bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD8E6B-E2DC-4BC6-897D-F92EAF0820F5}|Konsolowy_bank\\Konsolowy_bank.csproj|d:\\studia\\6 semestr\\obiektowe\\konsolowy_bank\\konsolowy_bank\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD8E6B-E2DC-4BC6-897D-F92EAF0820F5}|Konsolowy_bank\\Konsolowy_bank.csproj|solutionrelative:konsolowy_bank\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD8E6B-E2DC-4BC6-897D-F92EAF0820F5}|Konsolowy_bank\\Konsolowy_bank.csproj|d:\\studia\\6 semestr\\obiektowe\\konsolowy_bank\\konsolowy_bank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD8E6B-E2DC-4BC6-897D-F92EAF0820F5}|Konsolowy_bank\\Konsolowy_bank.csproj|solutionrelative:konsolowy_bank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD8E6B-E2DC-4BC6-897D-F92EAF0820F5}|Konsolowy_bank\\Konsolowy_bank.csproj|d:\\studia\\6 semestr\\obiektowe\\konsolowy_bank\\konsolowy_bank\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD8E6B-E2DC-4BC6-897D-F92EAF0820F5}|Konsolowy_bank\\Konsolowy_bank.csproj|solutionrelative:konsolowy_bank\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\studia\\6 semestr\\obiektowe\\Konsolowy_bank\\Konsolowy_bank\\User.cs",
+              "RelativeDocumentMoniker": "Konsolowy_bank\\User.cs",
+              "ToolTip": "D:\\studia\\6 semestr\\obiektowe\\Konsolowy_bank\\Konsolowy_bank\\User.cs",
+              "RelativeToolTip": "Konsolowy_bank\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:30:14.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\studia\\6 semestr\\obiektowe\\Konsolowy_bank\\Konsolowy_bank\\Operation.cs",
+              "RelativeDocumentMoniker": "Konsolowy_bank\\Operation.cs",
+              "ToolTip": "D:\\studia\\6 semestr\\obiektowe\\Konsolowy_bank\\Konsolowy_bank\\Operation.cs",
+              "RelativeToolTip": "Konsolowy_bank\\Operation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:29:52.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\studia\\6 semestr\\obiektowe\\Konsolowy_bank\\Konsolowy_bank\\Account.cs",
+              "RelativeDocumentMoniker": "Konsolowy_bank\\Account.cs",
+              "ToolTip": "D:\\studia\\6 semestr\\obiektowe\\Konsolowy_bank\\Konsolowy_bank\\Account.cs",
+              "RelativeToolTip": "Konsolowy_bank\\Account.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwDgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:29:24.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\studia\\6 semestr\\obiektowe\\Konsolowy_bank\\Konsolowy_bank\\Program.cs",
+              "RelativeDocumentMoniker": "Konsolowy_bank\\Program.cs",
+              "ToolTip": "D:\\studia\\6 semestr\\obiektowe\\Konsolowy_bank\\Konsolowy_bank\\Program.cs",
+              "RelativeToolTip": "Konsolowy_bank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:28:10.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

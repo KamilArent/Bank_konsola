@@ -1,0 +1,14 @@
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\bin\Debug\net8.0\Konsolowy_bank.exe
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\bin\Debug\net8.0\Konsolowy_bank.deps.json
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\bin\Debug\net8.0\Konsolowy_bank.runtimeconfig.json
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\bin\Debug\net8.0\Konsolowy_bank.dll
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\bin\Debug\net8.0\Konsolowy_bank.pdb
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\obj\Debug\net8.0\Konsolowy_bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\obj\Debug\net8.0\Konsolowy_bank.AssemblyInfoInputs.cache
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\obj\Debug\net8.0\Konsolowy_bank.AssemblyInfo.cs
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\obj\Debug\net8.0\Konsolowy_bank.csproj.CoreCompileInputs.cache
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\obj\Debug\net8.0\Konsolowy_bank.dll
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\obj\Debug\net8.0\refint\Konsolowy_bank.dll
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\obj\Debug\net8.0\Konsolowy_bank.pdb
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\obj\Debug\net8.0\Konsolowy_bank.genruntimeconfig.cache
+D:\studia\6 semestr\obiektowe\Konsolowy_bank\Konsolowy_bank\obj\Debug\net8.0\ref\Konsolowy_bank.dll
